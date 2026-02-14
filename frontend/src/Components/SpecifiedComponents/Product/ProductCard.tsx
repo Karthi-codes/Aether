@@ -64,6 +64,7 @@ const ProductCard: React.FC<ProductCardProps> = (product) => {
   return (
     <>
       <Box
+        data-cursor="view"
         onMouseEnter={() => setIsHovered(true)}
         onMouseLeave={() => setIsHovered(false)}
         sx={{ position: 'relative', cursor: isOutOfStock ? 'default' : 'pointer', opacity: isOutOfStock ? 0.8 : 1 }}
@@ -174,6 +175,7 @@ const ProductCard: React.FC<ProductCardProps> = (product) => {
 
           {/* Wishlist Button */}
           <IconButton
+            data-cursor="transparent"
             onClick={handleWishlistToggle}
             sx={{
               position: 'absolute',
@@ -200,6 +202,7 @@ const ProductCard: React.FC<ProductCardProps> = (product) => {
           {/* Action Buttons - Outlet: Try Before You Buy only; Regular: Quick Add + View */}
           {!isOutOfStock && (
             <Box
+              data-cursor="transparent"
               sx={{
                 position: 'absolute',
                 bottom: 16,

@@ -20,6 +20,7 @@ import festivalRoutes from './routers/festivalRoutes';
 import siteReviewRoutes from './routers/siteReviewRoutes';
 import brandSpotlightRoutes from './routers/brandSpotlightRoutes';
 import autoPurchaseRoutes from './routers/autoPurchase.routes';
+import outfitRoutes from './routers/outfitRoutes';
 import passport from './utils/lambda';
 
 
@@ -52,6 +53,7 @@ app.use('/api/festivals', festivalRoutes);
 app.use('/api/site-reviews', siteReviewRoutes);
 app.use('/api/brand-spotlights', brandSpotlightRoutes);
 app.use('/api/auto-purchase', autoPurchaseRoutes);
+app.use('/api/outfit', outfitRoutes);
 
 // Removed orderRoutes as it was not present in the desired routes snippet.
 

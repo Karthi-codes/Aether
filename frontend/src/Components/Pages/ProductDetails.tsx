@@ -531,15 +531,15 @@ const ProductDetails: React.FC = () => {
               <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2, pt: 4, borderTop: '1px solid #eee' }}>
                 <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
                   <LocalShippingOutlinedIcon sx={{ color: '#D5A249' }} />
-                  <Typography variant="body2">Free shipping on orders over $200</Typography>
+                  <Typography variant="body2">Free shipping on orders over ₹200</Typography>
                 </Box>
                 <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
                   <CachedIcon sx={{ color: '#D5A249' }} />
-                  <Typography variant="body2">30-day easy returns</Typography>
+                  <Typography variant="body2">3-day easy returns</Typography>
                 </Box>
                 <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
                   <ShieldOutlinedIcon sx={{ color: '#D5A249' }} />
-                  <Typography variant="body2">2-year quality guarantee</Typography>
+                  <Typography variant="body2">6-month quality guarantee</Typography>
                 </Box>
               </Box>
             </Box>

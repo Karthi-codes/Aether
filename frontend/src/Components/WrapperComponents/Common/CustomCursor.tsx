@@ -28,15 +28,15 @@ const CustomCursor: React.FC = () => {
         return;
       }
 
-      // 2. Explore (Categories)
-      if (target.closest("[data-cursor='explore']")) {
-        setCursorType('explore');
+      // 2. View (Products)
+      if (target.closest("[data-cursor='view']")) {
+        setCursorType('view');
         return;
       }
 
-      // 3. View (Products)
-      if (target.closest("[data-cursor='view']")) {
-        setCursorType('view');
+      // 3. Explore (Categories)
+      if (target.closest("[data-cursor='explore']")) {
+        setCursorType('explore');
         return;
       }
 
@@ -80,7 +80,7 @@ const CustomCursor: React.FC = () => {
           width: 100,
           height: 100,
           bg: "#D5A249",
-          text: "VIEW",
+          text: "VIEW NOW",
           border: "none",
           mixBlend: "normal" as const
         };
