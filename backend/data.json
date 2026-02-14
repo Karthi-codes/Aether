@@ -1,0 +1,1684 @@
+[
+  {
+    "name": "Minimalist Black Leather Tote Bag",
+    "description": "Minimal leather tote bag suitable for work and casual outings.",
+    "category": "accessories",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770716608/Accessories_3_jtxciw.jpg",
+    "price": 2299,
+    "discount": 300,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "black",
+      "brown"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "good"
+  },
+  {
+    "name": "Brown Contrast Casual Sneakers",
+    "description": "Trend-driven sneakers built for everyday urban wear.",
+    "category": "accessories",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770716951/Accessories_7_sp9uqp.jpg",
+    "price": 5299,
+    "discount": 600,
+    "sizes": [
+      "7",
+      "8",
+      "9"
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "good"
+  },
+  {
+    "name": "Executive Brown Leather Wallet",
+    "description": "Compact leather wallet designed for durability and elegance.",
+    "category": "accessories",
+    "stock": 25,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770717024/Accessories_13_p06zi7.jpg",
+    "price": 1599,
+    "discount": 300,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "brown"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "good"
+  },
+  {
+    "name": "Slim Classic Leather Wallet",
+    "description": "Slim fold wallet perfect for modern minimalist needs.",
+    "category": "accessories",
+    "stock": 30,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770717091/Accessories_14_utsfmp.jpg",
+    "price": 1299,
+    "discount": 200,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "dark brown"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "excellent"
+  },
+  {
+    "name": "Chic White Mini Handbag",
+    "description": "Stylish handbag with premium finish for fashion-forward looks.",
+    "category": "accessories",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770717420/Accessories_28_xnnulz.jpg",
+    "price": 2899,
+    "discount": 350,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "cream"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "good"
+  },
+  {
+    "name": "Minimalist Silver Pendant Necklace",
+    "description": "Minimal silver chain accessory designed for subtle everyday styling.",
+    "category": "accessories",
+    "stock": 20,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770717619/Accessories_31_b8snev.jpg",
+    "price": 999,
+    "discount": 150,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "silver"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "good"
+  },
+  {
+    "name": "Winter Knit Beanie Set",
+    "description": "Winter knit caps crafted for warmth and street-style fashion.",
+    "category": "accessories",
+    "stock": 18,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770717716/Accessories_32_gwrwep.jpg",
+    "price": 899,
+    "discount": 200,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "black",
+      "red"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "good"
+  },
+  {
+    "name": "Round Frame Minimal Eyeglasses",
+    "description": "Lightweight metal frame eyewear with a clean modern aesthetic.",
+    "category": "accessories",
+    "stock": 25,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770717903/Accessories_33_j0a0xg.jpg",
+    "price": 1599,
+    "discount": 300,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "silver"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "good"
+  },
+  {
+    "name": "Delicate Gold Bracelet",
+    "description": "Elegant bracelet accessory suitable for casual and formal outfits.",
+    "category": "accessories",
+    "stock": 30,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770718193/Accessories_36_o7k1tw.jpg",
+    "price": 899,
+    "discount": 150,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "gold"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "good"
+  },
+  {
+    "name": "Brown Casual Lace Sneakers",
+    "description": "Casual lace-up shoes crafted for comfort and everyday use.",
+    "category": "footwear",
+    "stock": 8,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770718263/Accessories_55_xcbmo1.jpg",
+    "price": 4599,
+    "discount": 500,
+    "sizes": [
+      "7",
+      "8",
+      "9"
+    ],
+    "color": [
+      "brown"
+    ],
+    "featured": false,
+    "isRefurbished": true,
+    "condition": "excellent"
+  },
+  {
+    "name": "Layered Silver Pendant Necklace",
+    "description": "Classic casual t-shirt crafted for breathable all-day comfort.",
+    "category": "men",
+    "stock": 20,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770740839/Accessories_70_qasgal.jpg",
+    "price": 1199,
+    "discount": 200,
+    "sizes": [
+      "s",
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "white"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Designer Black Leather Belt",
+    "description": "Designer-inspired belt with premium buckle finish.",
+    "category": "men",
+    "stock": 18,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770740944/Accessories_71_djbeym.jpg",
+    "price": 1399,
+    "discount": 250,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "black"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Sky Blue Casual Sneakers",
+    "description": "Clean white sneakers designed for casual everyday outfits.",
+    "category": "men",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770741188/Accessories_82_m3qkpz.jpg",
+    "price": 4899,
+    "discount": 600,
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "color": [
+      "white"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Black Strappy Heels",
+    "description": "Elegant high-heel sandals for evening and party wear.",
+    "category": "men",
+    "stock": 9,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770741190/Accessories_86_e9kndb.jpg",
+    "price": 3799,
+    "discount": 500,
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "color": [
+      "black"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "White & Green Retro Sneakers",
+    "description": "Retro-inspired Adidas shoes with iconic branding.",
+    "category": "men",
+    "stock": 8,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770741189/Adidas_5_qiszlh.jpg",
+    "price": 6199,
+    "discount": 800,
+    "sizes": [
+      "7",
+      "8",
+      "9"
+    ],
+    "color": [
+      "white",
+      "green"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Light Blue Slim Fit Shirt",
+    "description": "Smart casual shirt crafted for professional and daily wear.",
+    "category": "men",
+    "stock": 15,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770742534/Allensolly_1_o6abdf.jpg",
+    "price": 2499,
+    "discount": 400,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "light blue"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Green & White Color Block Jacket",
+    "description": "Color-block jacket designed for stylish layering.",
+    "category": "men",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770742531/Allensolly_2_delmhe.jpg",
+    "price": 3599,
+    "discount": 500,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "green",
+      "white"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Brown Hooded Utility Jacket",
+    "description": "Casual outerwear jacket with modern relaxed fit.",
+    "category": "men",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770742557/Allensolly_3_jwfvic.jpg",
+    "price": 3899,
+    "discount": 600,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "brown"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Ocean Fade Graphic T-Shirt",
+    "description": "Graphic printed t-shirt designed for youthful casual fashion.",
+    "category": "men",
+    "stock": 18,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770742544/Boys_6_eigzrk.jpg",
+    "price": 1299,
+    "discount": 200,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "black",
+      "blue"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Cartoon Graphic Navy Tee",
+    "description": "Casual printed t-shirt designed for everyday comfort and youthful style.",
+    "category": "women",
+    "stock": 16,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770743350/Boys_15_cnwpqy.jpg",
+    "price": 1399,
+    "discount": 200,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "navy blue"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Light Blue Short Sleeve Shirt",
+    "description": "Lightweight short-sleeve shirt ideal for summer casual wear.",
+    "category": "women",
+    "stock": 18,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770743351/Boys_21_m3lucy.jpg",
+    "price": 1699,
+    "discount": 300,
+    "sizes": [
+      "s",
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "sky blue"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Peach & Navy Color Block Shirt",
+    "description": "Color-block casual shirt combining comfort and modern style.",
+    "category": "women",
+    "stock": 15,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770743353/Boys_24_p92oej.jpg",
+    "price": 1799,
+    "discount": 300,
+    "sizes": [
+      "s",
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "peach",
+      "navy"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Brown Plaid Overshirt",
+    "description": "Classic checkered shirt designed for casual and semi-formal looks.",
+    "category": "women",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770743355/Boys_27_tyfkju.jpg",
+    "price": 1999,
+    "discount": 400,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "brown",
+      "white"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Short Sleeve Button Shirt",
+    "description": "Minimal black casual shirt suitable for everyday styling.",
+    "category": "women",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770743355/Boys_27_tyfkju.jpg",
+    "price": 1899,
+    "discount": 300,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "black"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Beach Print Co-ord Set",
+    "description": "Coordinated casual outfit set for relaxed daily wear.",
+    "category": "women",
+    "stock": 16,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744131/Boys_31_ciqrdn.jpg",
+    "price": 2499,
+    "discount": 400,
+    "sizes": [
+      "m",
+      "l"
+    ],
+    "color": [
+      "blue",
+      "white"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Denim & Tee Casual Set",
+    "description": "Printed short-sleeve shirt with modern relaxed fit.",
+    "category": "women",
+    "stock": 13,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744126/Boys_32_rc3j8u.jpg",
+    "price": 1699,
+    "discount": 250,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "blue",
+      "beige"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Tailored Wide Leg Trousers",
+    "description": "Comfortable loose-fit pants designed for modern casual wear.",
+    "category": "women",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744140/Boys_35_nsvuec.jpg",
+    "price": 2299,
+    "discount": 350,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "brown"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Printed Short Sleeve Shirt",
+    "description": "Printed casual shirt offering breathable comfort and style.",
+    "category": "women",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744132/Boys_36_p3vz3b.jpg",
+    "price": 1799,
+    "discount": 300,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "tan"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Pink Check Casual Shirt",
+    "description": "Classic plaid shirt perfect for casual everyday fashion.",
+    "category": "women",
+    "stock": 15,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744509/Boys_38_em0mhy.jpg",
+    "price": 1899,
+    "discount": 300,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "red",
+      "white"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Light Blue Casual Shirt",
+    "description": "Lightweight summer shirt with relaxed breathable fabric.",
+    "category": "women",
+    "stock": 16,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744505/Boys_44_cmelod.jpg",
+    "price": 1699,
+    "discount": 250,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "light blue"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Peach Blouse",
+    "description": "Printed blouse offering playful yet elegant styling.",
+    "category": "women",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746613/Girls_20_xvjbky.jpg",
+    "price": 1999,
+    "discount": 300,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "peach"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Cream Maxi Dress",
+    "description": "Summer maxi dress offering comfort and flowing silhouette.",
+    "category": "footwear",
+    "stock": 11,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747259/Girls_42_ygxhus.jpg",
+    "price": 3199,
+    "discount": 500,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "cream",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Beige Long Coat",
+    "description": "Casual long coat designed for urban winter fashion.",
+    "category": "footwear",
+    "stock": 13,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747258/Girls_45_sgrlrz.jpg",
+    "price": 4699,
+    "discount": 700,
+    "sizes": [
+      "m",
+      "l"
+    ],
+    "color": "beige",
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Relaxed Fit Charcoal Tee & Plaid Lounge Pants",
+    "description": "Casual oversizesd charcoal t-shirt styled with comfortable plaid lounge trousers for everyday wear.",
+    "category": "footwear",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770958510/Girls_67_z3yuqb.jpg",
+    "price": 2899,
+    "discount": 400,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "charcoal, brown plaid",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Minimal Grey Hoodie & Wide-Leg Trouser Set",
+    "description": "Cozy grey hoodie paired with relaxed wide-leg trousers designed for modern street comfort.",
+    "category": "footwear",
+    "stock": 11,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770958510/Girls_68_ljablt.jpg",
+    "price": 3199,
+    "discount": 450,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "grey",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Charcoal Relaxed Jogger Pants",
+    "description": "  ",
+    "category": "footwear",
+    "stock": 20,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770742551/Boys_1_vejevy.jpg",
+    "price": 1799,
+    "discount": 300,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "grey"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Palm Print Resort Shirt",
+    "description": "Graphic casual t-shirt inspired by street fashion aesthetics.",
+    "category": "footwear",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770743353/Boys_17_x078eq.jpg",
+    "price": 1499,
+    "discount": 250,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Two Tone Button Shirt",
+    "description": "Two-tone casual shirt blending minimalism and comfort.",
+    "category": "outerwear",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744514/Boys_40_lymf7d.jpg",
+    "price": 1999,
+    "discount": 350,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "black",
+      "beige"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Straight Fit Cream Trousers",
+    "description": "Straight-fit trousers designed for casual and semi-formal wear.",
+    "category": "outerwear",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744530/Boys_43_rfljvi.jpg",
+    "price": 2599,
+    "discount": 400,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "beige"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Blue Check Overshirt Jacket",
+    "description": "Cozy checkered jacket designed for cool weather layering.",
+    "category": "outerwear",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770744528/Boys_45_tfy2mj.jpg",
+    "price": 3299,
+    "discount": 500,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "blue",
+      "beige"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Red Plaid Casual Shirt",
+    "description": "Warm flannel-style jacket with classic check pattern.",
+    "category": "outerwear",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770745089/Boys_48_soztxb.jpg",
+    "price": 3499,
+    "discount": 600,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "red",
+      "navy"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Soft Wool Winter Scarf",
+    "description": "Wool-blend scarf crafted for warmth and winter styling.",
+    "category": "outerwear",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770745088/Boys_57_uyijnk.jpg",
+    "price": 1299,
+    "discount": 200,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "beige"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Black Oversizesd Hoodie",
+    "description": "Comfortable hoodie designed for casual winter wear.",
+    "category": "outerwear",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770745088/Boys_58_fnbuxe.jpg",
+    "price": 2899,
+    "discount": 400,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "black"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Navy Blue Check Winter Scarf",
+    "description": "Knitted scarf providing warmth and timeless winter fashion.",
+    "category": "outerwear",
+    "stock": 15,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770745089/Boys_60_ioxze3.jpg",
+    "price": 1199,
+    "discount": 200,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "navy"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Black Casual Zip Jacket",
+    "description": "Casual hoodie with relaxed fit and soft fabric finish.",
+    "category": "outerwear",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770745090/Boys_62_r7xrsd.jpg",
+    "price": 2799,
+    "discount": 400,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "black"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Grey & Black Check Scarf",
+    "description": "Classic check-pattern scarf suitable for winter layering.",
+    "category": "outerwear",
+    "stock": 13,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770960438/Boys_64_qokclb.jpg",
+    "price": 1399,
+    "discount": 250,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "grey",
+      "black"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Black & White Check Jacket",
+    "description": "Lightweight jacket designed for casual urban styling.",
+    "category": "outerwear",
+    "stock": 11,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770960439/Boys_65_yyc4zq.jpg",
+    "price": 3199,
+    "discount": 500,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": [
+      "black"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Blue Denim Jeans",
+    "description": "Wide-leg denim jeans offering comfort and modern silhouette.",
+    "category": "outerwear",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770708021/Girls_5_t55ksp.jpg",
+    "price": 2499,
+    "discount": 400,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "blue"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "White & Printed Shirt",
+    "description": "Printed casual shirt designed for effortless daily styling.",
+    "category": "outerwear",
+    "stock": 16,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770745971/Girls_6_ntzytc.jpg",
+    "price": 1799,
+    "discount": 300,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "white",
+      "black"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Dark Grey Denim Jeans",
+    "description": "High-waist straight-fit jeans crafted for everyday wear.",
+    "category": "girls",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746056/Girls_7_iwqboq.jpg",
+    "price": 2599,
+    "discount": 400,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "dark grey"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Tops and Skirts",
+    "description": "Flowing summer dress designed for elegance and comfort.",
+    "category": "girls",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746118/Girls_8_tnwjbm.jpg",
+    "price": 3299,
+    "discount": 500,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "brown"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Navy Blue Shirt",
+    "description": "Oversizesd casual shirt with relaxed everyday appeal.",
+    "category": "girls",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746200/Girls_9_x5b8m8.jpg",
+    "price": 1899,
+    "discount": 300,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "navy blue"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Light Blue Denim Jeans",
+    "description": "High-rise denim jeans with modern straight-leg fit.",
+    "category": "girls",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746240/Girls_11_ududx8.jpg",
+    "price": 2799,
+    "discount": 450,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "light blue"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Green Jeans",
+    "description": "Relaxed-fit trousers designed for comfort and minimal style.",
+    "category": "girls",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746360/Girls_12_gbljgp.jpg",
+    "price": 2399,
+    "discount": 400,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "green"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Beige Long Coat",
+    "description": "Long coat designed for elegant winter layering.",
+    "category": "girls",
+    "stock": 11,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746505/Girls_13_anuntc.jpg",
+    "price": 4599,
+    "discount": 700,
+    "sizes": [
+      "m",
+      "l"
+    ],
+    "color": [
+      "beige"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Camel Brown Long Coat",
+    "description": "Chic long coat crafted for modern winter fashion.",
+    "category": "girls",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746610/Girls_17_wlf4eo.jpg",
+    "price": 4799,
+    "discount": 800,
+    "sizes": [
+      "m",
+      "l"
+    ],
+    "color": [
+      "camel brown"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Grey Jeans",
+    "description": "Textured casual trousers offering comfort and street style.",
+    "category": "girls",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746613/Girls_18_of4v2l.jpg",
+    "price": 2299,
+    "discount": 350,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "grey"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Light Blue Jeans",
+    "description": "Wide-leg jeans designed for trendy everyday outfits.",
+    "category": "girls",
+    "stock": 13,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746612/Girls_19_uaaiuh.jpg",
+    "price": 2699,
+    "discount": 400,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "light blue"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Sky Blue Jeans",
+    "description": "Classic straight-fit denim jeans suitable for daily wear.",
+    "category": "girls",
+    "stock": 15,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746860/Girls_22_ofbcpz.jpg",
+    "price": 2599,
+    "discount": 400,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "blue"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Black Jeans",
+    "description": "High-waist black jeans with clean minimalist finish.",
+    "category": "girls",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746861/Girls_25_rhghw5.jpg",
+    "price": 2799,
+    "discount": 450,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "black"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Blue Slim Fit Jeans",
+    "description": "Casual slim-fit jeans designed for everyday comfort.",
+    "category": "girls",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746862/Girls_26_ndl1fu.jpg",
+    "price": 2499,
+    "discount": 350,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "blue"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "White & Green Short Sleeve Shirt",
+    "description": "Printed short-sleeve shirt with playful summer vibes.",
+    "category": "girls",
+    "stock": 16,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746867/Girls_28_ymjsip.jpg",
+    "price": 1599,
+    "discount": 250,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "white",
+      "green"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Lavender T-Shirt",
+    "description": "Soft cotton t-shirt designed for casual everyday comfort.",
+    "category": "girls",
+    "stock": 18,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770746866/Girls_32_jl2ryo.jpg",
+    "price": 1299,
+    "discount": 200,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "lavender"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Brown Crop Top",
+    "description": "Trendy crop top designed for youthful summer styling.",
+    "category": "girls",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747251/Girls_34_ygfemg.jpg",
+    "price": 1499,
+    "discount": 250,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": [
+      "brown"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Blue Midi Skirt",
+    "description": "Printed midi skirt offering a playful feminine look.",
+    "category": "girls",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747253/Girls_36_iofxnb.jpg",
+    "price": 2199,
+    "discount": 350,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "blue",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Red Sleeveless Dress",
+    "description": "Elegant sleeveless dress designed for special occasions.",
+    "category": "girls",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747255/Girls_38_hj9eyn.jpg",
+    "price": 3499,
+    "discount": 600,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "red",
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "excellent"
+  },
+  {
+    "name": "Grey Hoodie",
+    "description": "Relaxed-fit hoodie offering warmth and everyday comfort.",
+    "category": "girls",
+    "stock": 15,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747581/Girls_48_fy92k6.jpg",
+    "price": 2599,
+    "discount": 400,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "grey",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Beige Knit Sweater",
+    "description": "Soft knit sweater designed for cozy winter wear.",
+    "category": "girls",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747582/Girls_53_mynzq4.jpg",
+    "price": 2799,
+    "discount": 450,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "beige",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "White Polo",
+    "description": "Classic polo-style sweater suitable for casual styling.",
+    "category": "girls",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747584/Girls_54_xcgpte.jpg",
+    "price": 2399,
+    "discount": 350,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "white",
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Scenic Print Top",
+    "description": "Scenic print casual top inspired by travel aesthetics.",
+    "category": "girls",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747585/Girls_58_qybg0g.jpg",
+    "price": 1699,
+    "discount": 300,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "multicolor",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Brown & Green Scarf",
+    "description": "Winter scarf designed for warmth and everyday layering.",
+    "category": "girls",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747587/Girls_65_dahms9.jpg",
+    "price": 1299,
+    "discount": 200,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": "brown",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Parisian Chic Sleeveless Blouse & Tailored Trousers",
+    "description": "Elegant sleeveless black blouse paired with high-waist tailored trousers for a refined urban look.",
+    "category": "girls",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770958510/Girls_66_xalz4c.jpg",
+    "price": 3399,
+    "discount": 500,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "color": "black, brown",
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "description": "A premium structured handbag designed for daily elegance and modern lifestyle use.",
+    "name": "Elegant Dual-Tone Structured Handbag",
+    "category": "accessories",
+    "price": 2499,
+    "discount": 400,
+    "stock": 15,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770716463/Accessories_1_yoolfk.jpg",
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "beige",
+      "green"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Beige Street Style Sneakers",
+    "description": "Casual lifestyle sneakers offering comfort and street-style appeal.",
+    "category": "accessories",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770716776/Accessories_5_go7ivj.jpg",
+    "price": 4999,
+    "discount": 500,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "color": [
+      "white",
+      "beige"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Beige High-Top Canvas Sneakers",
+    "description": "Lightweight casual shoes ideal for relaxed daily wear.",
+    "category": "footwear",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770717220/Accessories_24_tbepka.jpg",
+    "price": 3799,
+    "discount": 400,
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "color": [
+      "beige",
+      "white"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Navy Urban Street Sneakers",
+    "description": "Sport-inspired sneakers with a bold silhouette and comfort sole.",
+    "category": "footwear",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770717534/Accessories_29_ufs442.jpg",
+    "price": 5499,
+    "discount": 700,
+    "sizes": [
+      "7",
+      "8",
+      "9"
+    ],
+    "color": [
+      "white",
+      "navy"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Classic Black Sunglasses",
+    "description": "Classic round sunglasses offering UV protection and vintage style.",
+    "category": "accessories",
+    "stock": 22,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770718083/Accessories_34_efu7zo.jpg",
+    "price": 1999,
+    "discount": 400,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "black",
+      "gold"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Pastel Mini Backpack",
+    "description": "Compact backpack designed for urban travel and daily essentials.",
+    "category": "accessories",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770740774/Accessories_63_miqeat.jpg",
+    "price": 2799,
+    "discount": 300,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "pink"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Gold Charm Pendant Necklace",
+    "description": "Minimal gold-tone necklace for elegant everyday styling.",
+    "category": "accessories",
+    "stock": 22,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770741034/Accessories_76_iy3aox.jpg",
+    "price": 1099,
+    "discount": 200,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "gold"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "good"
+  },
+  {
+    "name": "Elegant Gold Chain Necklace",
+    "description": "Delicate chain necklace designed for subtle fashion statements.",
+    "category": "accessories",
+    "stock": 24,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770741100/Accessories_80_zmnhra.jpg",
+    "price": 999,
+    "discount": 150,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": [
+      "gold"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Classic Black Baseball Cap",
+    "description": "Adidas lifestyle sneakers blending sport and street culture.",
+    "category": "footwear",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770741190/Adidas_1_tosysp.jpg",
+    "price": 5999,
+    "discount": 700,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "color": [
+      "white",
+      "black"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "White Stripe Casual Sneakers",
+    "description": "Classic Adidas sneakers designed for all-day comfort.",
+    "category": "footwear",
+    "stock": 10,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770741189/Adidas_3_edk3e4.jpg",
+    "price": 5799,
+    "discount": 600,
+    "sizes": [
+      "7",
+      "8",
+      "9"
+    ],
+    "color": [
+      "white",
+      "navy"
+    ],
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "White & Black Polo Jacket",
+    "description": "Casual polo t-shirt offering comfort and timeless style.",
+    "category": "men",
+    "stock": 15,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770747926/Uspolo_1_z1ostg.jpg",
+    "price": 2199,
+    "discount": 350,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": "off-white",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Dark Blue Cap",
+    "description": "Classic baseball cap designed for casual everyday wear.",
+    "category": "men",
+    "stock": 14,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770961325/Uspolo_2_qtfstm.jpg",
+    "price": 1199,
+    "discount": 200,
+    "sizes": [
+      "free-sizes"
+    ],
+    "color": "navy blue",
+    "featured": false,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Cream Cable-Knit Sweater",
+    "description": "Cable-knit sweater designed for warmth and refined casual fashion.",
+    "category": "men",
+    "stock": 12,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770961326/Uspolo_3_gcok6o.jpg",
+    "price": 3499,
+    "discount": 600,
+    "sizes": [
+      "m",
+      "l",
+      "xl"
+    ],
+    "color": "cream",
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "new"
+  },
+  {
+    "name": "Leather Sneakers",
+    "description": "Lifestyle sneakers offering comfort and everyday durability.",
+    "category": "footwear",
+    "stock": 8,
+    "images": "https://res.cloudinary.com/dcntlnerb/image/upload/v1770961855/Nike_6_nio8nu.jpg",
+    "price": 5799,
+    "discountPrice": 700,
+    "sizes": [
+      "7",
+      "8",
+      "9"
+    ],
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "featured": true,
+    "isRefurbished": false,
+    "condition": "excellent"
+  }
+]
