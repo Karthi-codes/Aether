@@ -52,6 +52,7 @@ const SmartAutoPay: React.FC = () => {
 
     const [products, setProducts] = useState<Product[]>([]);
     const [loading, setLoading] = useState(true);
+    const [cancelLoading, setCancelLoading] = useState(false);
 
     useEffect(() => {
         const fetchProducts = async () => {
@@ -137,8 +138,17 @@ const SmartAutoPay: React.FC = () => {
     };
 
     const handleConfirmCancel = async () => {
-        await removeAutoPurchase(cancelItemId);
-        setCancelDialogOpen(false);
+        if (!cancelItemId) return;
+        setCancelLoading(true);
+        try {
+            await removeAutoPurchase(cancelItemId);
+            setCancelDialogOpen(false);
+            setCancelItemId('');
+        } catch (error) {
+            console.error('Error cancelling auto-purchase:', error);
+        } finally {
+            setCancelLoading(false);
+        }
     };
 
     const getPriceChangePercent = (item: any) => {
@@ -854,7 +864,12 @@ const SmartAutoPay: React.FC = () => {
             {/* Cancel Confirmation Dialog */}
             <Dialog
                 open={cancelDialogOpen}
-                onClose={() => setCancelDialogOpen(false)}
+                onClose={() => {
+                    if (!cancelLoading) {
+                        setCancelDialogOpen(false);
+                        setCancelItemId('');
+                    }
+                }}
                 PaperProps={{ sx: { borderRadius: 3 } }}
             >
                 <DialogTitle fontWeight={700}>Stop Monitoring?</DialogTitle>
@@ -864,18 +879,17 @@ const SmartAutoPay: React.FC = () => {
                     </Typography>
                 </DialogContent>
                 <DialogActions sx={{ p: 2.5 }}>
-                    <Button onClick={() => setCancelDialogOpen(false)} sx={{ color: '#666' }} disabled={loading}>No, Go Back</Button>
+                    <Button onClick={() => {
+                        setCancelDialogOpen(false);
+                        setCancelItemId('');
+                    }} sx={{ color: '#666' }} disabled={cancelLoading}>No, Go Back</Button>
                     <Button
                         variant="contained"
-                        onClick={async () => {
-                            setLoading(true);
-                            await handleConfirmCancel();
-                            setLoading(false);
-                        }}
-                        disabled={loading}
+                        onClick={handleConfirmCancel}
+                        disabled={cancelLoading}
                         sx={{ bgcolor: ERROR, color: WHITE, borderRadius: 2, fontWeight: 600, px: 3, '&:hover': { bgcolor: '#d32f2f' } }}
                     >
-                        {loading ? 'Cancelling...' : 'Yes, Stop Monitor'}
+                        {cancelLoading ? 'Cancelling...' : 'Yes, Stop Monitor'}
                     </Button>
                 </DialogActions>
             </Dialog>

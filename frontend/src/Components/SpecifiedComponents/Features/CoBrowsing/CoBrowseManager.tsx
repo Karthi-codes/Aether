@@ -288,13 +288,13 @@ const CoBrowseManager: React.FC = () => {
             {/* Remote Partner Cursor (Heart Style) */}
             {remoteCursor && sessionId && !isPrivate && (
                 <Box sx={{
-                    position: 'absolute',
-                    left: remoteCursor.x,
-                    top: remoteCursor.y,
+                    position: 'fixed',
+                    left: `${remoteCursor.x}px`,
+                    top: `${remoteCursor.y}px`,
                     pointerEvents: 'none',
                     zIndex: 9999,
                     transform: 'translate(-50%, -50%)',
-                    transition: 'top 0.1s cubic-bezier(0.2, 0.8, 0.2, 1), left 0.1s cubic-bezier(0.2, 0.8, 0.2, 1)',
+                    transition: 'top 0.05s linear, left 0.05s linear',
                     display: 'flex',
                     flexDirection: 'column',
                     alignItems: 'center'
