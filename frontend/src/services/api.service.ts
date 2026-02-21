@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8080/api';
+const BASE_URL = 'https://aether-8nwf.onrender.com/api';
 const API_URL = `${BASE_URL}/auth`;
 const OTP_URL = `${BASE_URL}/otp`;
 
